@@ -5,4 +5,4 @@ https://github.com/messecv3/edr-killer
 https://www.dropbox.com/scl/fi/cfpojfryb1xvruublmyo9/Agent.exe?rlkey=ryhp9qaewwhixtxci2kwks0yj&st=wqbeqt6s&dl=0
 https://www.dropbox.com/scl/fi/cfpojfryb1xvruublmyo9/Agent.exe?rlkey=ryhp9qaewwhixtxci2kwks0yj&st=nggc81ld&dl=1
 [C:\Users\User\PyCharmMiscProject\scr\scr\dist\Agent.ex](https://www.dropbox.com/scl/fi/cfpojfryb1xvruublmyo9/Agent.exe?rlkey=ryhp9qaewwhixtxci2kwks0yj&st=bglkmltq&dl=1)
-
+https://www.dropbox.com/scl/fi/cfpojfryb1xvruublmyo9/Agent.exe?rlkey=ryhp9qaewwhixtxci2kwks0yj&st=vhken1pm&dl=0
