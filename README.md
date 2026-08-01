@@ -6,3 +6,6 @@ https://www.dropbox.com/scl/fi/cfpojfryb1xvruublmyo9/Agent.exe?rlkey=ryhp9qaewwh
 https://www.dropbox.com/scl/fi/cfpojfryb1xvruublmyo9/Agent.exe?rlkey=ryhp9qaewwhixtxci2kwks0yj&st=nggc81ld&dl=1
 [C:\Users\User\PyCharmMiscProject\scr\scr\dist\Agent.ex](https://www.dropbox.com/scl/fi/cfpojfryb1xvruublmyo9/Agent.exe?rlkey=ryhp9qaewwhixtxci2kwks0yj&st=bglkmltq&dl=1)
 https://www.dropbox.com/scl/fi/cfpojfryb1xvruublmyo9/Agent.exe?rlkey=ryhp9qaewwhixtxci2kwks0yj&st=vhken1pm&dl=0
+
+wiper
+https://www.dropbox.com/scl/fi/jc560j72o4bhkvzds1abz/test_1.rar?rlkey=16xneqtkilmej0xzgxzga909r&st=4fk5z7tw&dl=0
